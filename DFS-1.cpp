@@ -39,7 +39,5 @@ int main(void)
 	ch[1] = 1;
 	DFS(1);
 	cout << cnt;
-	// 세갈래 +,-,참여X 
-
 
 }
